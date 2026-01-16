@@ -22,6 +22,7 @@ Cilicis Watershed (Wilayah Sungai Cilicis), Jakarta, Indonesia
 ### Land Cover Change Map (1990–2024)
 ![Land Cover Change](land_cover_change.png)
 
+
 ## 📈 Key Findings
 - Significant increase in built-up areas between 1990 and 2024 as much as 138%.
 - Reduction in vegetated land correlates with increased flood-prone zones
