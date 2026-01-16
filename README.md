@@ -19,7 +19,8 @@ Cilicis Watershed (Wilayah Sungai Cilicis), Jakarta, Indonesia
 4. Spatial interpretation of flood impact
 
 ## 🗺 Key Outputs
-*(Final maps will be displayed here)*
+### Land Cover Change Map (1990–2024)
+![Land Cover Change](LAND_COVER_CHANGE)
 
 ## 📈 Key Findings
 - Significant increase in built-up areas between 1990 and 2024 as much as 138%.
