@@ -29,6 +29,8 @@ Cilicis Watershed (Wilayah Sungai Cilicis), Jakarta, Indonesia
 - Significant increase in built-up areas between 1990 and 2024 as much as 138%
 - Reduction in vegetated land correlates with increased flood-prone zones
 - Flood events are more frequent in areas with rapid land cover change
+
+  
 ## 🌐 Interactive Dashboard
 
 ![Interactive Dashboard Preview](dashboard_preview.png)
@@ -36,7 +38,7 @@ Cilicis Watershed (Wilayah Sungai Cilicis), Jakarta, Indonesia
 An interactive dashboard developed to explore spatial patterns of land use change and flood occurrences within the Cilicis Watershed.
 
 🔗 **Access Dashboard:**  
-(https://sigi.pu.go.id/portalpu/apps/dashboards/7143c39e28f54d66b76359e33dc94f20)
+https://sigi.pu.go.id/portalpu/apps/dashboards/7143c39e28f54d66b76359e33dc94f20
 
 **Dashboard Features:**
 - Time-series land cover change analysis (1990–2024)
