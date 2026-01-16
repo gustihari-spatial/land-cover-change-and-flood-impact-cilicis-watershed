@@ -24,6 +24,8 @@ Cilicis Watershed (Wilayah Sungai Cilicis), Jakarta, Indonesia
 
 
 ## 📈 Key Findings
+![Land Use Flood Correlation](land_use_flood_correlation.png)
+
 - Significant increase in built-up areas between 1990 and 2024 as much as 138%
 - Reduction in vegetated land correlates with increased flood-prone zones
 - Flood events are more frequent in areas with rapid land cover change
